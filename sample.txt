@@ -1,1 +1,1 @@
-smaple text
+smaple text changes for GUI
